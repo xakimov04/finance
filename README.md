@@ -1,6 +1,6 @@
 Home 
-!(assets/readmeImage/Home.jpg)
+![Home](assets/readmeImage/Home.jpg)
 Card
-!(assets/readmeImage/Card.jpg)
+![Card](assets/readmeImage/Card.jpg)
 Analystic
-!(assets/readmeImage/anlystic.jpg)
+![Analystic](assets/readmeImage/anlystic.jpg)
